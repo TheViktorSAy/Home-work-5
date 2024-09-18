@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        
+
 
         // Задание 1
         int clientOS = 1; // IOS 0 | Android 1
